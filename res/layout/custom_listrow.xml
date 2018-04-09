@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/listrow"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/list_selector"
+    android:orientation="horizontal"
+    android:padding="5dip" >
+
+    <!-- ListRow Left sied Thumbnail image -->
+
+    <LinearLayout
+        android:id="@+id/ln_img_status"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_marginRight="5dip"
+        android:padding="3dip" >
+
+        <ImageView
+            android:id="@+id/image_status"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:minHeight="25dp"
+            android:minWidth="25dp"
+            android:src="@drawable/bulletgreen" />
+    </LinearLayout>
+
+    <!-- Title -->
+
+    <TextView
+        android:id="@+id/titulo_servico"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/ln_img_status"
+        android:layout_toRightOf="@+id/ln_img_status"
+        android:textColor="#040404"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:typeface="sans" />
+
+    <!-- Description -->
+    <!-- <TextView
+        android:id="@+id/descricao_servico"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/titulo_servico"
+        android:layout_marginTop="1dip"
+        android:layout_toRightOf="@+id/ln_img_status"
+        android:textColor="#343434"
+        android:textSize="10dip" /> -->
+
+    <!-- Rightend Arrow -->
+    <!-- <ImageView
+        android:id="@+id/img_seta_abrir"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:src="@drawable/arrow" /> -->
+
+</RelativeLayout>

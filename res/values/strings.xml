@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ServiceTester</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="btn_entrar">Entrar</string>
+    <string name="action_refresh">Atualizar</string>
+    <string name="testando">Testando</string>
+    
+    
+     
+    
+    <!-- Lista Teste -->
+    <string-array name="lista_servicos">
+        <item >Solicitações Próximas</item>
+        <item >Login</item>
+        <item >Cadastro</item>
+        <item >SMS</item>
+        <item >Minhas Solicitações</item>
+        <item >Locais</item>
+    </string-array>
+
+</resources>
