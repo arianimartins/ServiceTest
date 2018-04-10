@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_ic_find_next_holo_light.png.flat",
+        "source": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\src\\main\\res\\drawable-nodpi\\ic_find_next_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_bulletred.png.flat",
+        "source": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\src\\main\\res\\drawable-nodpi\\bulletred.png"
+    },
+    {
+        "merged": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_icon.png.flat",
+        "source": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\src\\main\\res\\drawable-nodpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\build\\intermediates\\res\\merged\\debug\\menu_actions.xml.flat",
+        "source": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\src\\main\\res\\menu\\actions.xml"
+    },
+    {
+        "merged": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_activty_listservice.xml.flat",
+        "source": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\src\\main\\res\\layout\\activty_listservice.xml"
+    },
+    {
+        "merged": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_performance_info.png.flat",
+        "source": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\src\\main\\res\\drawable-nodpi\\performance_info.png"
+    },
+    {
+        "merged": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_listgroup.xml.flat",
+        "source": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\src\\main\\res\\layout\\custom_listgroup.xml"
+    },
+    {
+        "merged": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_gradient_bg_hover.xml.flat",
+        "source": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\src\\main\\res\\drawable-nodpi\\gradient_bg_hover.xml"
+    },
+    {
+        "merged": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_bg_cube.jpg.flat",
+        "source": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\src\\main\\res\\drawable-nodpi\\bg_cube.jpg"
+    },
+    {
+        "merged": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_arrow_refresh.png.flat",
+        "source": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\src\\main\\res\\drawable-nodpi\\arrow_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_buttonshape.xml.flat",
+        "source": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\src\\main\\res\\drawable-nodpi\\buttonshape.xml"
+    },
+    {
+        "merged": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_listrow.xml.flat",
+        "source": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\src\\main\\res\\layout\\custom_listrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_slapshscreen.xml.flat",
+        "source": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\src\\main\\res\\layout\\activity_slapshscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_cube_icon.png.flat",
+        "source": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\src\\main\\res\\drawable-nodpi\\cube_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_ic_action_refresh.png.flat",
+        "source": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\src\\main\\res\\drawable-nodpi\\ic_action_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_list_selector.xml.flat",
+        "source": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\src\\main\\res\\drawable-nodpi\\list_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_bulletgreen.png.flat",
+        "source": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\src\\main\\res\\drawable-nodpi\\bulletgreen.png"
+    },
+    {
+        "merged": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_gradient_bg.xml.flat",
+        "source": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\src\\main\\res\\drawable-nodpi\\gradient_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_ic_find_previous_holo_light.png.flat",
+        "source": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\src\\main\\res\\drawable-nodpi\\ic_find_previous_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_bulletgrey.png.flat",
+        "source": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\src\\main\\res\\drawable-nodpi\\bulletgrey.png"
+    },
+    {
+        "merged": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_arrow.png.flat",
+        "source": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\src\\main\\res\\drawable-nodpi\\arrow.png"
+    }
+]

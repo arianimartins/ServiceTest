@@ -1,0 +1,151 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "13,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "440,498",
+                        "endColumns": "57,55",
+                        "endOffsets": "493,549"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15,35,19,24,29",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "251,584,1430,749,982,1230",
+                        "endLines": "12,17,46,22,27,31",
+                        "endColumns": "12,12,12,12,12,12",
+                        "endOffsets": "543,741,2042,974,1222,1381"
+                    },
+                    "to": {
+                        "startLines": "21,28,31,43,47,51",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "856,1147,1307,1913,2140,2382",
+                        "endLines": "27,30,42,46,50,53",
+                        "endColumns": "12,12,12,12,12,12",
+                        "endOffsets": "1142,1302,1908,2135,2377,2531"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "15,8,4,3,7,5,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "424,272,111,59,225,165,326",
+                        "endLines": "22,8,4,3,7,5,9",
+                        "endColumns": "19,52,52,50,45,52,45",
+                        "endOffsets": "687,320,159,105,266,213,367"
+                    },
+                    "to": {
+                        "startLines": "2,15,16,17,18,19,20",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,554,607,660,711,757,810",
+                        "endLines": "9,15,16,17,18,19,20",
+                        "endColumns": "19,52,52,50,45,52,45",
+                        "endOffsets": "305,602,655,706,752,805,851"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "4,5,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "105,145,63",
+                        "endColumns": "38,49,40",
+                        "endOffsets": "139,190,99"
+                    },
+                    "to": {
+                        "startLines": "10,11,12",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "310,349,399",
+                        "endColumns": "38,49,40",
+                        "endOffsets": "344,394,435"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\build\\intermediates\\res\\merged\\debug\\values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "227",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "375"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\build\\intermediates\\res\\merged\\debug\\values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "183",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "317"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\build\\intermediates\\res\\merged\\debug\\values-sw720dp-land-v13_values-sw720dp-land-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\brura\\AndroidStudioProjects\\ServiceTest\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "206",
+                        "endColumns": "58",
+                        "endOffsets": "260"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        }
+    ]
+}
